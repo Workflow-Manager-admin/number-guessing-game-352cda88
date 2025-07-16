@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pick_a_number_frontend</string>
+    <string name="score_text">Score: 0</string>
+    <string name="instruction">Pick a number between 1 and 10</string>
+    <string name="enter_number">Enter your guess</string>
+    <string name="submit">Submit</string>
+    <string name="restart">Restart Game</string>
+    <string name="win">Congratulations! You guessed right!</string>
+    <string name="lose">Sorry, try again!</string>
+    <string name="invalid_input">Please enter a number between 1 and 10.</string>
+</resources>
